@@ -1,2 +1,2 @@
 # machine_learning
-SWJTU_machine_learning 2020_ project I 
+SWJTU machine learning 2020 project I 
