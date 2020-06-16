@@ -1,0 +1,77 @@
+
+
+lightdbm
+name: flowmeter size: (180, 43) lable: 4
+10-fold cross-validation precision_weighted: 0.953 ± 0.043
+10-fold cross-validation recall_weighted: 0.944 ± 0.050
+10-fold cross-validation f1_weighted: 0.943 ± 0.050
+total time: 0.033
+
+select_feature
+name: MNIST size: (70000, 784) lable: 10
+10-fold cross-validation precision_weighted: 0.955883 ± 0.001998
+10-fold cross-validation recall_weighted: 0.955771 ± 0.001963
+10-fold cross-validation f1_weighted: 0.955764 ± 0.001978
+total time: 485.982
+
+no_select_feature
+name: MNIST size: (70000, 784) lable: 10
+10-fold cross-validation precision_weighted: 0.962381 ± 0.001895
+10-fold cross-validation recall_weighted: 0.962271 ± 0.001837
+10-fold cross-validation f1_weighted: 0.962272 ± 0.001846
+total time: 1451.735
+
+
+svm
+select_feature
+name: sensor24 size__(5456, 24) lable: 4
+10-fold cross-validation precision_weighted: 0.861 _ 0.009
+10-fold cross-validation recall_weighted: 0.860 _ 0.009
+10-fold cross-validation f1_weighted: 0.858 _ 0.009
+total time: 18.748
+Best: 0.804 using {'C': 1000, 'gamma': 0.001}
+
+no_select_feature
+name: sensor24 size__(5456, 24) lable: 4
+10-fold cross-validation precision_weighted: 0.891 _ 0.011
+10-fold cross-validation recall_weighted: 0.890 _ 0.011
+10-fold cross-validation f1_weighted: 0.890 _ 0.011
+total time: 35.962
+Best: 0.903 using {'C': 1000, 'gamma': 0.001}
+
+no_select_feature
+name: sensor24 size: (5456, 24) lable: 4
+10-fold cross-validation precision_weighted: 0.904 ± 0.008
+10-fold cross-validation recall_weighted: 0.903 ± 0.008
+10-fold cross-validation f1_weighted: 0.903 ± 0.008
+total time: 40.273
+
+select_feature
+name: adult size__(32561, 14) lable: 2
+10-fold cross-validation precision_weighted: 0.843 _ 0.007
+10-fold cross-validation recall_weighted: 0.850 _ 0.006
+10-fold cross-validation f1_weighted: 0.842 _ 0.006
+total time: 6807.183
+Best: 0.841 using {'C': 100, 'gamma': 0.001}
+
+no_select_feature
+10-fold cross-validation precision_weighted: 0.843 _ 0.006
+10-fold cross-validation recall_weighted: 0.850 _ 0.005
+10-fold cross-validation f1_weighted: 0.843 _ 0.005
+total time: 11620.987
+
+no_select_feature
+name: har-PUC size__(165633, 20) lable: 5
+10-fold cross-validation precision_weighted: 0.917268 _ 0.001930
+10-fold cross-validation recall_weighted: 0.913248 _ 0.002105
+10-fold cross-validation f1_weighted: 0.911796 _ 0.002185
+total time: 134971.620
+
+select_feature
+name: har-PUC size__(165633, 20) lable: 5
+10-fold cross-validation precision_weighted: 0.885465 _ 0.001507
+10-fold cross-validation recall_weighted: 0.883236 _ 0.001707
+10-fold cross-validation f1_weighted: 0.878527 _ 0.001673
+total time: 105737.811
+
+

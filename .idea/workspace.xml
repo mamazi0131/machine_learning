@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bf7a113-ede8-43fa-902a-958c4ea1b9a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cHOubyAunwwmQ7X1p1Am6eqNt5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dec-pytorch" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HUAWEI\PycharmProjects\machine_learning\dataset" />
+      <recent name="C:\Users\HUAWEI\PycharmProjects\machine_learning" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HUAWEI\PycharmProjects\machine_learning\dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SVM">
+    <configuration name="EDA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GDBT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GDBT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TK_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TK_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SVM" />
+        <item itemvalue="Python.GDBT" />
+        <item itemvalue="Python.KNN" />
+        <item itemvalue="Python.EDA" />
+        <item itemvalue="Python.TK_window" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bf7a113-ede8-43fa-902a-958c4ea1b9a5" name="Default Changelist" comment="" />
+      <created>1590182275716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590182275716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2842" y="626" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591114996098">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state x="2842" y="626" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1591114996098" />
+    <state x="2850" y="570" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591340934754">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state x="2850" y="570" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1591340934754" />
+    <state x="2900" y="578" key="FileChooserDialogImpl" timestamp="1592228121567">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state x="2900" y="578" key="FileChooserDialogImpl/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1592228121567" />
+    <state width="1899" height="377" key="GridCell.Tab.0.bottom" timestamp="1592345275355">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.243.1920.1160@0.0.1440.920" timestamp="1592331459392" />
+    <state width="1899" height="377" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1592345275355" />
+    <state width="1899" height="377" key="GridCell.Tab.0.center" timestamp="1592345275355">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.0.1440.920/2160.243.1920.1160@0.0.1440.920" timestamp="1592331459388" />
+    <state width="1899" height="377" key="GridCell.Tab.0.center/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1592345275355" />
+    <state width="1899" height="377" key="GridCell.Tab.0.left" timestamp="1592345275355">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.0.1440.920/2160.243.1920.1160@0.0.1440.920" timestamp="1592331459388" />
+    <state width="1899" height="377" key="GridCell.Tab.0.left/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1592345275355" />
+    <state width="1899" height="377" key="GridCell.Tab.0.right" timestamp="1592345275355">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.0.1440.920/2160.243.1920.1160@0.0.1440.920" timestamp="1592331459390" />
+    <state width="1899" height="377" key="GridCell.Tab.0.right/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1592345275355" />
+    <state x="93" y="93" width="1255" height="735" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591602023191">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="93" y="93" width="1255" height="735" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.920/2160.243.1920.1160@0.0.1440.920" timestamp="1591602023191" />
+    <state x="2284" y="360" width="1674" height="927" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1591241790639" />
+    <state x="93" y="93" width="1255" height="735" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1591602023191">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="93" y="93" width="1255" height="735" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1440.920/2160.243.1920.1160@0.0.1440.920" timestamp="1591602023191" />
+    <state x="2284" y="360" width="1674" height="927" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1590890074589" />
+    <state x="2486" y="721" key="com.intellij.ide.util.TipDialog" timestamp="1590888250766">
+      <screen x="2160" y="243" width="1920" height="1160" />
+    </state>
+    <state x="2486" y="721" key="com.intellij.ide.util.TipDialog/0.0.1440.920/2160.243.1920.1160@2160.243.1920.1160" timestamp="1590888250766" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1591233796979">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920/2160.243.1920.1160@0.0.1440.920" timestamp="1591233796979" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataset.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/NetSarang Computer/6/Xftp/Temporary/KNN [4].py</url>
+          <line>221</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/NetSarang Computer/6/Xftp/Temporary/SVM.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
